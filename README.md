@@ -4,7 +4,24 @@
 
 ![Job Satisfaction Analysis of Brac Bank](https://github.com/almazid82/job-satisfaction-analysis-contribution/blob/main/Job%20satisfaction%20of%20Brac%20Bank%20.jpg)
 
-This repository presents **my personal contribution** to a university group project titled *"Assessing Job Satisfaction in the Banking Industry of Bangladesh: A Case Study on BRAC Bank"* conducted under the Department of Statistics, Govt. Titumir College, University of Dhaka.
+What makes people truly satisfied at work? Is it salary, work-life balance, career growth — or something deeper?
+
+In today's fast-paced job market, understanding employee satisfaction is more important than ever. Organizations thrive when their people are happy, motivated, and engaged. Yet, many companies still struggle to decode what really drives satisfaction in the workplace.
+
+This project dives into a comprehensive dataset that explores the many dimensions of job satisfaction. From demographic factors to professional environments, we analyze how different variables contribute to how satisfied employees feel in their roles.
+
+Key questions we explore:
+
+- Which factors contribute most to job satisfaction?
+- Do age, gender, or education levels play a role?
+- How can organizations use data to build happier workplaces?
+
+With data as our guide, we aim to turn insights into action — helping businesses, HR professionals, and policymakers build environments where people don’t just work, but thrive.
+
+Let’s decode the DNA of job satisfaction — one data point at a time.
+
+
+In this repository presents **my personal contribution** to a university group project titled *"Assessing Job Satisfaction in the Banking Industry of Bangladesh: A Case Study on BRAC Bank"* conducted under the Department of Statistics, Govt. Titumir College, University of Dhaka.
 
 ## Project Context
 
