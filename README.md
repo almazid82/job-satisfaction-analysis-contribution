@@ -2,7 +2,7 @@
 
 [Click here to download the report](./B.pdf)
 
-https://github.com/almazid82/job-satisfaction-analysis-contribution/blob/main/Job%20satisfaction%20of%20Brac%20Bank%20.jpg
+![Job Satisfaction Analysis of Brac Bank](https://github.com/almazid82/job-satisfaction-analysis-contribution/blob/main/Job%20satisfaction%20of%20Brac%20Bank%20.jpg)
 
 This repository presents **my personal contribution** to a university group project titled *"Assessing Job Satisfaction in the Banking Industry of Bangladesh: A Case Study on BRAC Bank"* conducted under the Department of Statistics, Govt. Titumir College, University of Dhaka.
 
