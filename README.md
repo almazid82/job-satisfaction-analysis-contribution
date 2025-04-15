@@ -1,6 +1,15 @@
+## Full Report
+
+For a detailed breakdown of our findings, visualizations, and insights, check out the complete PDF report:
+
+[**View the Job Satisfaction Analysis Report**](https://github.com/almazid82/job-satisfaction-analysis-contribution/blob/main/B.pdf)
+
+
+
+
 # My Contribution: Job Satisfaction Analysis at BRAC Bank
 
-[Click here to download the report](./B.pdf)
+
 
 ![Job Satisfaction Analysis of Brac Bank](https://github.com/almazid82/job-satisfaction-analysis-contribution/blob/main/Job%20satisfaction%20of%20Brac%20Bank%20.jpg)
 
