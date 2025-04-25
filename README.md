@@ -77,11 +77,13 @@ This content is shared for **educational and portfolio purposes only**.
 Licensed under the [MIT License](LICENSE) © 2025 Shamsul Al Mazid.
 
 ---
+## 📫 Connect With Me
 
-## Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shamsul-al-mazid-073a87286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sondartara.tara.777)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shamsulalmazid@gmail.com)
 
-**Shamsul Al Mazid**  
-Aspiring Data Analyst  
-Email: [shamsulalmazid@gmail.com]  
-LinkedIn: [linkedin.com/in/shamsul-al-mazid](https://www.linkedin.com/in/shamsul-al-mazid-073a87286)
+
+
+
 
