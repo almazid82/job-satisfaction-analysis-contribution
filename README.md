@@ -1,4 +1,6 @@
-## Full Report
+## Full Report 
+  ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-teal?style=flat-square)
+
 
 For a detailed breakdown of our findings, visualizations, and insights, check out the complete PDF report:
 
