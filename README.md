@@ -13,7 +13,7 @@ For a detailed breakdown of our findings, visualizations, and insights, check ou
 
 
 
-![Job Satisfaction Analysis of Brac Bank](brack nak happy face.jpg)
+![Job Satisfaction Analysis of Brac Bank](https://github.com/almazid82/job-satisfaction-analysis-contribution/blob/main/brack%20nak%20happy%20face.jpg)
 
 What makes people truly satisfied at work? Is it salary, work-life balance, career growth — or something deeper?
 
