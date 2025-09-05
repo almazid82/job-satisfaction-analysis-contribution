@@ -21,15 +21,63 @@ In today's fast-paced job market, understanding employee satisfaction is more im
 
 This project dives into a comprehensive dataset that explores the many dimensions of job satisfaction. From demographic factors to professional environments, we analyze how different variables contribute to how satisfied employees feel in their roles.
 
-Key questions we explore:
+# Assessing Job Satisfaction in the Banking Industry of Bangladesh: The Case of BRAC Bank
 
-- Which factors contribute most to job satisfaction?
-- Do age, gender, or education levels play a role?
-- How can organizations use data to build happier workplaces?
+This project paper evaluates the level of job satisfaction among employees at **BRAC Bank** in Bangladesh.  
+The research was conducted using a questionnaire-based survey of **88 employees** across three branches in Dhaka: **Mirpur, Mohakhali, and Savar**.
 
-With data as our guide, we aim to turn insights into action — helping businesses, HR professionals, and policymakers build environments where people don’t just work, but thrive.
+---
 
-Let’s decode the DNA of job satisfaction — one data point at a time.
+## 📌 Key Findings
+The study identified several factors that significantly influence employee satisfaction and performance:
+- 💰 Salary satisfaction  
+- 👥 Team support  
+- ⚖️ Fair workplace politics  
+- 🕒 Job flexibility  
+- 📈 Promotion systems  
+- 🛡️ Job safety and security  
+
+✅ Overall, the findings suggest a **positive level of job satisfaction** among the surveyed employees.
+
+### Demographic Highlights
+- **68%** of respondents were male  
+- **54.55%** hold a post-graduate degree  
+- **40%** have less than **1 year of experience**, indicating a **young workforce**  
+
+---
+
+## 🎯 Make It Interactive: A Mini-Quiz
+The study used a **5-point Likert scale** *(Strongly Agree, Agree, Neutral, Disagree, Strongly Disagree)* to measure employee opinions.  
+Now, let’s see how **your perceptions** align with the BRAC Bank employees:
+
+### 💰 Salary
+- **Finding:** 48.86% agreed and 15.91% strongly agreed that salary positively impacted their satisfaction.  
+- **Total Positive Responses:** **64.77%**
+
+**👉 Question for You:**  
+How satisfied are you with your salary? Do you believe it's a primary factor for job satisfaction?
+
+---
+
+### 📈 Promotion System
+- **Finding:** 45.45% of respondents were neutral, while 27.27% agreed it was a positive factor.
+
+**👉 Question for You:**  
+What is your opinion on career advancement opportunities at your job?  
+Do you think they are fair and transparent?
+
+---
+
+### 🛡️ Job Safety & Security
+- **Finding:** 49% agreed and 19% strongly agreed that job security boosted satisfaction.  
+- **Total Positive Responses:** **68%**
+
+**👉 Question for You:**  
+How important is job security to you?  
+Do you feel safe and secure in your current position?
+
+---
+
 
 
 In this repository presents **my personal contribution** to a university group project titled *"Assessing Job Satisfaction in the Banking Industry of Bangladesh: A Case Study on BRAC Bank"* conducted under the Department of Statistics, Govt. Titumir College, University of Dhaka.
